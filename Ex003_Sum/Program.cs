@@ -1,6 +1,6 @@
 ﻿class Program
 {   
-        static void Main(string[] args)
+        static void  Main(string[] args)
     {
         Console.WriteLine ("Сумма двух чисел");
         Console.WriteLine ("Введите первое число:");
